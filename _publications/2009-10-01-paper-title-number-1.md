@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Linking Human Resource Development Practices to Counterproductive Work Behaviour: Does Employee Engagement Matter"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://doi.org/https://doi.org/10.1080/15228916.2019.1583974
+excerpt: 'Although there is strong evidence in the literature to support the relationship between human resource development (HRD) practices and counterproductive work behavior (CWB), little is known about the psychological processes underlying this relationship. The present study examined whether employee engagement mediates the relationship between HRD practices and CWB. Participants were 271 employees enroled in a part-time Master of Business Administration (MBA) program at a large public university in Nigeria. After controlling for demographic characteristics, results showed that HRD practices were negatively related to CWB. The results also indicated that employee engagement plays a role in mediating the relationship between HRD practices and CWB.'
+date: 2019-10-01
+venue: 'Journal of African Business'
+slidesurl: 'https://doi.org/https://doi.org/10.1080/15228916.2019.1583974'
+paperurl: 'https://doi.org/https://doi.org/10.1080/15228916.2019.1583974'
+citation: 'Kura, K. M., Shamsudin, F. Mohd., Umrani, W. A., & Salleh, N. M. (2019). Linking Human Resource Development Practices to Counterproductive Work Behaviour: Does Employee Engagement Matter. Journal of African Business, 20(4), 472–488. https://doi.org/10.1080/15228916.2019.1583974'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
