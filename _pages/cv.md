@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Human Resource Management - Universiti Utara Malaysia
+* MSc in Business Administration - Ahmadu Bello University Zaria, Nigeria
+* Master of Business Administration (MBA) - Ahmadu Bello University Zaria, Nigeria
+* Bachelor of Business Administration (BBA) - University of North Dakota, United States
+* BSc in Business Administration - Bayero University Kano, Nigeria
 
 Work experience
 ======
